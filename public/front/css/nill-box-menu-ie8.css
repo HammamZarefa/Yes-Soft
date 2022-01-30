@@ -1,0 +1,12 @@
+/**/
+/* level 1 */
+/**/
+.nill-box-menu {
+	background: #fff;
+}
+.nill-box-menu li {
+	border-color: #e5e5e5;
+}
+.nill-box-menu li > div {
+	background: #fff;	
+}
